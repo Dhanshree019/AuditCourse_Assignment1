@@ -4,6 +4,27 @@ I created homemade food delivery website. we know that more than outside food we
 ### Programming language: HTML,CSS
 ### Software: Sublime Text3,Chrome
 ### Sources Used: Youtube,W3school
+### HTML tags:
+1.body
+2.nav
+3.section
+4.div
+4.span
+5.p
+6.h1,h3
+7.li
+8.span
+### CSS tags:
+1.background-image
+2.padding
+3.box-sizing
+4. Font-size, font-family
+5. width
+6. text-transform
+7. justify-content
+8. transition
+9. animation
+10. border-radius 
 ### Content present: 
 #### 1.Home page:
 
